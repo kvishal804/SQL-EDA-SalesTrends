@@ -104,11 +104,11 @@ AdventureWorks2022-EDA/
 
 | Segment | Customers | Total Revenue | Avg per Customer |
 |---|---|---|---|
-| Champions | 1,555 | £63.0M | £40,503 |
-| Potential Loyalist | 6,373 | £31.5M | £4,943 |
-| At Risk | 1,793 | £21.6M | £12,029 |
-| Lost | 8,823 | £5.3M | £603 |
-| Loyal Customers | 575 | £1.8M | £3,199 |
+| Champions | 1,555 | 63.0M | 40,503 |
+| Potential Loyalist | 6,373 | 31.5M | 4,943 |
+| At Risk | 1,793 | 21.6M | 12,029 |
+| Lost | 8,823 | 5.3M | 603 |
+| Loyal Customers | 575 | 1.8M | 3,199 |
 
 
 
